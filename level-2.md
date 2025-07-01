@@ -1,46 +1,31 @@
-# Level 3 – Loops with Conditions
+# Level 2 – Loops and Counters
 
-## Exercise 1 – Prime Numbers up to 100
+## Exercise 1 – Count to N
+Ask the user for a number N and print numbers from 1 to N.
 
-Show all prime numbers between 1 and 100.
+## Exercise 2 – Multiplication Table
+Ask the user for a number and print its multiplication table from 1 to 10.
 
-## Exercise 2 – Guessing Game with Attempts
+## Exercise 3 – Sum of 10 Numbers
+Ask the user to enter 10 numbers, one by one. After that, show the total sum.
 
-Generate a random number between 1 and 10 and allow the user to guess until they get it right. Show the number of attempts.
+## Exercise 4 – Countdown
+Ask the user for a number and count down to 0.
 
-## Exercise 3 – Simple Menu
+## Exercise 5 – Even Numbers from 1 to 100
+Print all even numbers from 1 to 100.
 
-Display a menu with options:
+## Exercise 6 – Odd Numbers from 1 to 50
+Print all odd numbers from 1 to 50.
 
-1. Show current date
-2. Say "Hello!"
-3. Exit program
-   Use `switch` and a `while` loop.
+## Exercise 7 – Average of N Numbers
+Ask the user how many numbers they want to enter. Then ask for each number and calculate the average.
 
-## Exercise 4 – Simple Calculator
+## Exercise 8 – Repeat Until Zero
+Ask for numbers repeatedly until the user enters 0. At the end, print how many numbers were entered (excluding 0).
 
-Ask for two numbers and an operation (`+`, `-`, `*`, `/`) and show the result.
+## Exercise 9 – Password Check
+Keep asking the user to enter a password until they type "secret". When they do, print "Access granted".
 
-## Exercise 5 – Perfect Number
-
-Ask for a number and check if it is a perfect number (sum of its divisors equals the number).
-
-## Exercise 6 – Fibonacci Sequence
-
-Ask for a number N and print the first N terms of the Fibonacci sequence.
-
-## Exercise 7 – Factorial
-
-Ask for a number and calculate its factorial.
-
-## Exercise 8 – Even and Odd Numbers
-
-Ask for 10 numbers and show the even and odd numbers separately.
-
-## Exercise 9 – Max and Min
-
-Ask for 10 numbers and show the largest and the smallest of them.
-
-## Exercise 10 – Magic Number
-
-Choose a magic number in the code. The user tries to guess it, and the program responds if the guess is too low, too high, or correct. Repeat until correct.
+## Exercise 10 – Sum of Even Numbers
+Ask the user for 10 numbers. Add only the even ones and show the total sum.
