@@ -6,9 +6,9 @@ Each exercise is meant to be solved using basic PHP syntax, without the use of o
 
 ## 📁 Files
 
-* `level-1.md`: Basic exercises using conditional structures and input/output.
-* `level-2.md`: Exercises involving loops and counters.
-* `level-3.md`: Exercises combining loops with conditions for more logic-based problems.
+* [`level-1.md`](level-1.md): Basic exercises using conditional structures and input/output.
+* [`level-2.md`](level-2.md): Exercises involving loops and counters.
+* [`level-3.md`](level-3.md): Exercises combining loops with conditions for more logic-based problems.
 
 ## 🛠 Requirements
 
